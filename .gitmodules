@@ -1,0 +1,3 @@
+[submodule "swingtix/include"]
+	path = swingtix/include
+	url = https://github.com/signsmile/bookkeeper.git
